@@ -1,4 +1,4 @@
- text.usetex: True
+  text.usetex: True
   font.family: serif
   font.sans-serif: Times
   font.size: 10
